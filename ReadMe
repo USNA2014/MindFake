@@ -1,0 +1,9 @@
+Import info for DeepFake
+Need python 3.7 for torch 1.0.0 whl file
+
+Command to change pip download folder example: TMPDIR=/home/sigma python3.7 -m pip install 
+--cache-dir=/home/sigma --build /home/sigma torchvision==0.2.1
+
+Python 3.7 install:
+
+https://tecadmin.net/install-python-3-7-on-ubuntu-linuxmint/
